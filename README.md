@@ -4,7 +4,6 @@ A multi-sport data and prediction platform, live at **[oddsix.app](https://oddsi
 Designed, built and run by Spencer Goss. The source code is private; this repository documents the project.
 
 <a href="https://oddsix.app"><img src="https://raw.githubusercontent.com/SpencerGoss/SpencerGoss.github.io/master/public/images/projects/oddsix-home.png" width="49%" alt="Oddsix home page"></a>
-<a href="https://oddsix.app"><img src="https://raw.githubusercontent.com/SpencerGoss/SpencerGoss.github.io/master/public/images/projects/oddsix-player.png" width="49%" alt="Oddsix player page"></a>
 <a href="https://oddsix.app"><img src="https://raw.githubusercontent.com/SpencerGoss/SpencerGoss.github.io/master/public/images/projects/oddsix-team.png" width="49%" alt="Oddsix team page"></a>
 <a href="https://oddsix.app"><img src="https://raw.githubusercontent.com/SpencerGoss/SpencerGoss.github.io/master/public/images/projects/oddsix-shotchart.png" width="49%" alt="Oddsix shot chart"></a>
 
