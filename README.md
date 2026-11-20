@@ -44,7 +44,7 @@ Click any picture to open that page live.
 
 ```mermaid
 flowchart LR
-    A[League and odds<br/>data feeds] --> B[Ingestion and<br/>validation]
+    A[League<br/>data feeds] --> B[Ingestion and<br/>validation]
     B --> C[Feature<br/>engineering]
     C --> D[Prediction models<br/>per sport]
     D --> E[Data products]
@@ -53,7 +53,7 @@ flowchart LR
     F --> G[oddsix.app<br/>on Cloudflare]
 ```
 
-- **Data:** league APIs and public odds feeds, ingested and validated continuously through the day
+- **Data:** league data APIs, ingested and validated continuously through the day
 - **Storage:** relational databases and versioned data files, with large archives on Cloudflare R2
 - **Models:** a separate model per sport, validated on seasons they were not trained on, with calibrated probabilities
 - **Front end:** Astro static site on Cloudflare Pages, with one template serving every player page
@@ -62,6 +62,3 @@ flowchart LR
 
 Python (pandas, scikit-learn, LightGBM) · SQL · Astro · TypeScript · Cloudflare Pages and R2
 
----
-
-For information and entertainment only.
